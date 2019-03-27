@@ -31,5 +31,5 @@ const configJson = {
 - clone 当前项目
 - 在项目根目录执行`npm install`
 - 填写index.js配置选项
-- 开始上传`npm start`
+- 开始上传`npm run start`
 
