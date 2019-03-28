@@ -1,0 +1,9 @@
+{
+  "host": "192.10.11.15",
+  "port": "22",
+  "username": "admin",
+  "watch": true,
+  "password": "****",
+  "localPath": "/vue-stite/dist",
+  "remoteFilePath":"/dist"
+}

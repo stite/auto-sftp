@@ -6,7 +6,7 @@
 
 * 支持文件更新时自动上传
 
-## 配置文件
+## 画起来，重要的配置文件解释，文件是config.json
 ```js
 const configJson = {
   // 服务器地址
@@ -25,11 +25,11 @@ const configJson = {
   remoteFilePath:'/dist'
 }
 ```
+### 上面的本地目录在window系统下注意“\”这个斜杆要这样写“/”
 
-
-### 使用
+## 如何使用
 - clone 当前项目
 - 在项目根目录执行`npm install`
-- 填写index.js配置选项
+- 填写config.js配置选项
 - 开始上传`npm run start`
 
